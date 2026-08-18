@@ -75,5 +75,5 @@ WHERE population = 148005 + 1;
 
 -- FINAL QUESTION
 -- In which city should Conan wait for Kaito Kid?
--- Hitachinaka - Japan 🎌:jp: 
+-- Hitachinaka - Japan 🎌 
 -- Conan says: (he never left 🕵🏻‍♂️)
